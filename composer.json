@@ -1,0 +1,20 @@
+{
+	"name": "dmpinder/procyon-component-logo",
+	"description": "A drop-in WordPress component to add a WCAG-compliant logo",
+	"homepage": "https://github.com/dmpinder/procyon-component-logo",
+	"keywords": [
+		"wordpress"
+	],
+	"license": "MIT",
+	"authors": [
+		{
+			"name":"Darren Pinder",
+			"email":"darren@vatu.co.uk",
+			"homepage":"https://vatu.co.uk"
+		}
+	],
+	"type": "wordpress-muplugin",
+	"require": {
+		"composer/installers": "~1.0"
+	 }
+}
