@@ -14,7 +14,8 @@ developed in a fluent and organized way, thanks.
   semantically with previous created ones.
 5. Commit every single problem you solve, so it will be easier to recover
   previous versions if you make a mistake. No one is flawless.
-6. Before you submit a *Pull request*, make sure your work is bug-free.
+6. Before you submit a *Pull request*, make sure your work is bug-free and manage it 
+  to be merged.
 7. When submitting a *Pull request*, try to give a good description to
   improve the chances of acceptance.
   
