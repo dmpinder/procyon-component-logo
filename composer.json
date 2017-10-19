@@ -16,6 +16,6 @@
 	"require": {
 		"composer/installers": "~1.0",
 		"johnpbloch/wordpress": "*",
-		"lkwdwrd/wp-muplugin-loader": "~1.0.0",
+		"lkwdwrd/wp-muplugin-loader": "~1.0.0"
 	 }
 }
