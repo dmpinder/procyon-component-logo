@@ -2,6 +2,7 @@
 	"name": "dmpinder/procyon-component-logo",
 	"description": "A drop-in WordPress component to add a WCAG-compliant logo",
 	"homepage": "https://github.com/dmpinder/procyon-component-logo",
+	"type" : "composer-plugin",
 	"keywords": [
 		"wordpress"
 	],
