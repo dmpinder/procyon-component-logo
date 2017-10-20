@@ -13,7 +13,7 @@
 function procyon_component_logo() { ?>
 
 	<div itemscope itemtype="http://schema.org/Organization">
-		<?php the_custom_logo(); ?>
+		<?php the_custom_logo(); // The WordPress-provided function to create the logo ?>
 		<!--
 			Visually hide this text.
 			WCAG 2.0: “image alt text cannot be the primary text of a link"
