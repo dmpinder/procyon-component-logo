@@ -4,7 +4,7 @@ A drop-in WordPress component to add a WCAG-compliant logo. Based on the excelle
 
 ## Intro
 
-This plugin adds a WCAG-compliant logo component to your Wordpress website. 
+This plugin adds a WCAG-compliant logo component to your WordPress website. 
 
 ## Contributing
 
