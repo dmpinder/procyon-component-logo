@@ -1,12 +1,12 @@
 <?php
 /*
   Plugin Name: Procyon Component: Logo
-  Plugin URI: https://github.com/dmpinder/component-logo/
+  Plugin URI: https://github.com/dmpinder/procyon-component-logo
   Description: A drop-in PHP component to create a WCAG-compliant logo. Based on the excellent 10up component library.
   Author: Darren Pinder, 10up
   Version: 1.0
   Author URI: https://vatu.co.uk
-  GitHub Plugin URI: https://github.com/dmpinder/component-logo
+  GitHub Plugin URI: https://github.com/dmpinder/procyon-component-logo
   GitHub Branch:     master
  */
 
