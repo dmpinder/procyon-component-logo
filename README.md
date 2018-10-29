@@ -6,6 +6,13 @@ A drop-in WordPress component to add a WCAG-compliant logo. Based on the excelle
 
 This plugin adds a WCAG-compliant logo component to your WordPress website. 
 
+## Using the plugin
+
+1. Install the plugin
+2. Add an Options field or an ACF field with the correct name (see source code)
+3. Upload an image into either field
+4. Call `procyon_component_logo()` into the location you want the logo
+
 ## Contributing
 
 1. Fork it!
