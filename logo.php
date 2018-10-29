@@ -14,9 +14,21 @@
  * Function to output a logo which is defined as an option.
  */
 function procyon_component_logo() {
-	$logo = get_option( 'options_main_logo' );
-	if ( ! empty( $logo ) ) {
+	$option_logo = get_option( 'options_main_logo' );
+	$acf_logo = get_field('logo', 'options');
+	
+	if ($option_logo) {
+		$logo = $option_logo;
 		$url = wp_get_attachment_image_src( 526, 'full' )[0];
+	}
+	
+	if ($acf_logo) {
+		$logo = $acf_logo;
+		$url = $logo; // Make sure ACF sets the return as the image URL
+	}
+	
+	if ( ! empty( $logo ) ) {
+		
 		?>
 		<div itemscope itemtype="http://schema.org/Organization">
 			<!--
